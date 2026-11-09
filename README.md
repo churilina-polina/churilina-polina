@@ -12,3 +12,7 @@
 | [foodgram](https://github.com/churilina-polina/foodgram) | Платформа рецептов: Django REST Framework и React, Docker, Nginx, CI/CD с автоматическим деплоем на сервер |
 | [habit-tracker](https://github.com/churilina-polina/habit-tracker) | Трекер привычек: асинхронный FastAPI, React, напоминания через Celery и Redis, Docker, CI |
 | [pale-pink-marketplace](https://github.com/churilina-polina/pale-pink-marketplace) | Маркетплейс одежды: Django REST Framework и React, роли покупателя и продавца, корзина, заказы, отзывы |
+
+## Контакты
+
+Telegram: [@churilina_polina](https://t.me/churilina_polina)
